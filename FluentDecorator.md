@@ -166,7 +166,7 @@ Everything is great, the fans are happy, and the songs hit the charts with flyin
 Until someone connects to the internal API and runs:
 
 ```
-System.out.println(new AshleyToo(new Ashley()).wakeUp().dance().talk());
+System.out.println(doll.wakeUp().dance().talk());
 I feel desperate to break away
 ```
 
