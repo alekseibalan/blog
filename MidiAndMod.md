@@ -210,11 +210,11 @@ while keeping effects consistent.
 
 But what is most magical - the tick frequency per beat is
 (4 (16th note granularity) * 6 (default divider)) = 24, and this is exactly
-the same as the default MIDI PPQ, giving us the possibility to control .mod
-playback with a hardware MIDI clock and vice versa - syncing hardware
-sequencers playback with .mod playback. We get one MIDI clock event -
-we perform one .mod tick. No synchronization routine, compatibility out of
-the box.
+the same as the default MIDI PPQ, giving us the possibility to
+[control .mod playback](https://youtu.be/7vU1Q5UbKnE)
+with a hardware MIDI clock and vice versa - syncing hardware sequencers
+playback with .mod playback. We get one MIDI clock event - we perform one
+.mod tick. No synchronization routine, compatibility out of the box.
 
 Thanks for reading.
 
